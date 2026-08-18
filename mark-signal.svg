@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- mark-signal: 6-pointed minimal star/light glyph; azure dot with four hairline rays -->
+  <g stroke="#4C8DFF" stroke-width="1.6" stroke-linecap="round">
+    <line x1="32" y1="6" x2="32" y2="20"/>
+    <line x1="32" y1="44" x2="32" y2="55"/>
+    <line x1="8" y1="32" x2="24" y2="32"/>
+    <line x1="40" y1="32" x2="58" y2="32"/>
+  </g>
+  <g stroke="#4C8DFF" stroke-width="1.1" stroke-linecap="round" opacity="0.55">
+    <line x1="16.5" y1="16.5" x2="24.5" y2="24.5"/>
+    <line x1="39.5" y1="39.5" x2="46.5" y2="46.5"/>
+  </g>
+  <circle cx="32" cy="32" r="4" fill="#4C8DFF"/>
+</svg>
